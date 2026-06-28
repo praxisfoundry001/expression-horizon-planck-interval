@@ -1,4 +1,4 @@
-# ¯\\(ツ)/¯ Physics and the Expression Horizon
+# ¯\\(ツ)/¯, Physics, and the Expression Horizon
 
 ## The Planck Interval and the Structure Physics Cannot Derive from Itself
 
