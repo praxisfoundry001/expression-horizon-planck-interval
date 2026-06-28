@@ -67,6 +67,6 @@ DOI: `10.5281/zenodo.19373768`
 
 ## Citation
 
-DOI: Pending Zenodo publication.
+DOI: https://doi.org/10.5281/zenodo.21001349
 
 The signed PDF will be available through the DOI record after publication.
